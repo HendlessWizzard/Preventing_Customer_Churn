@@ -73,5 +73,6 @@ RosTeleCom, a major telecommunications provider, faced increased customer churn.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/telecom-churn-prediction.git
+   git clone https://github.com/
+HendlessWizzard/telecom-churn-prediction.git
    cd telecom-churn-prediction
