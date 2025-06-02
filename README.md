@@ -4,7 +4,7 @@
 
 RosTeleCom, a major telecommunications provider, faced increased customer churn. The goal of this project is to develop an automated machine learning model that can identify high-risk customers before they leave. This enables timely retention measures and reduces financial losses.
 
-[You can see my notebook here](#)  
+[You can see my notebook here](#telecom_ml_pipline.ipynb)  
 
 🎯 **Project Objectives:**
 
